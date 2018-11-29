@@ -104,19 +104,19 @@ p {
  * Choose a different color based on the type of pricing table.
  */
 .pricing-table-25 .pricing-table-header {
-    background: #00c3ff;
+    background: #ff0095;
 }
 
 .pricing-table-50 .pricing-table-header {
-    background: #058fff;
+    background: #ff05ff;
 }
 
 .pricing-table-100 .pricing-table-header {
-  background: #0509ff;
+  background: #e205ff;
 }
 
 .pricing-table-200 .pricing-table-header {
-  background: #3305ff;
+  background: #8f05ff;
 }
 
 /*
